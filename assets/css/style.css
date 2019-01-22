@@ -752,6 +752,25 @@ g.Header {
     font-size: 15px;
 }
 
+.cvLink a {
+    display: inline-block;
+    padding: 8px 20px;
+    border: 2px solid #000;
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-right: 18px;
+    transition: all 0.3s ease-in-out 0s;
+    -webkit-transition: all 0.3s ease-in-out 0s;
+}
+.cvLink a:hover {
+    border: 2px solid #47A3DA;
+    background-color: #47A3DA;
+    color: #fff;
+}
+
+
 /*End Resume Section*/
 
 
