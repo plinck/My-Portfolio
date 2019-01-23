@@ -69,3 +69,4 @@ I focussed on the content of my portfolio page and the aesthetics. I used a sing
 * Verify all README's are properly updated with link to live version and problem information
 * Small amount of code refactoring
 * Get contact email page working
+* Add screenshots to Star Wars Readme
