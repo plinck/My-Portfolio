@@ -65,9 +65,7 @@ I focussed on the content of my portfolio page and the aesthetics. I used a sing
 
 #### To Do
 
-* Enter proper text in place of Lorem ipsum stuff
 * Verify linkedin up to date
 * Verify all README's are properly updated with link to live version and problem information
 * Small amount of code refactoring
-* Get contact email page working
 * Add screenshots to Star Wars Readme
