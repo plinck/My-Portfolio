@@ -65,8 +65,4 @@ I focussed on the content of my portfolio page and the aesthetics. I used a sing
 
 #### To Do
 
-* Verify linkedin up to date with links to all projects on this site
-* Update linked in with data from previous career sessions like the brand statement
-* Verify all projects README's are properly updated with link to live version and problem information and screenshots
-* Small amount of code refactoring
-* Add screenshots to Star Wars Readme
+* Review portfolio, resume and linkedin profile and ensure brand statement incorporated properly
