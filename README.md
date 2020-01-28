@@ -3,16 +3,18 @@
 ## Overview
 
 This is my latest updated portfolio.  I got started with a template and used several 3rd party css styles and js libraries to make an elegant, pleasing user experience.
+
 * [Live Portfolio Page](https://plinck.github.io/My-Portfolio/)
+* [Live Firebase Page](https://paullinck-portfolio.web.app)
+* [Live Custom Firebase Host](https://paullinck.com) - uses custom domain on firebase hosting at [FB Host](https://console.firebase.google.com/u/0/project/paullinck-portfolio/hosting/main)
 * [GitHub Portfolio](https://github.com/plinck/My-Portfolio)
 
-At this point it is geared towards the job skills I am most interested in. 
+At this point it is geared towards the job skills I am most interested in.
 
 ### Screenshots
-![Main Page](assets/images/appImages/MainPage.png) ![About](assets/images/appImages/About.png) 
-![Menu](assets/images/appImages/Menu.png) ![Portfolio](assets/images/appImages/Portfolio.png) 
+![Main Page](assets/images/appImages/MainPage.png) ![About](assets/images/appImages/About.png)
+![Menu](assets/images/appImages/Menu.png) ![Portfolio](assets/images/appImages/Portfolio.png)
 ![CV](assets/images/appImages/Resume.png) 
-
 
 ### A few related items
 
